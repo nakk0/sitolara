@@ -1,13 +1,13 @@
 <script>
 	import '../app.css';
 	import favicon from '$lib/assets/favicon.svg';
-    import pfp from '$lib/photos/lara_front1.png' 
+  import pfp from '$lib/photos/lara_front1.png' 
 	
 	let { children } = $props();
 </script>
 
 <svelte:head>
-	<link rel="icon" href={favicon} />
+	<!-- <link rel="icon" href={favicon} /> -->
 </svelte:head>
 
 

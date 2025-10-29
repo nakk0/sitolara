@@ -64,6 +64,20 @@
       <p class="text-lg font-medium text-gray-700">Inglese – Spagnolo – Francese</p>
     </section>
 
+    <section id="arte">
+      <h2 class="text-2xl font-semibold border-b-2 border-gray-200 pb-2 mb-4">Arte</h2>
+
+      <span class="font-semibold">Decorazione / Restauro</span>
+      <ul class="list-disc list-inside space-y-2 text-gray-700">
+        <li>Affreschi in case d’epoca a Firenze (amatoriale)</li>
+        <li>Restauratrice presso ditta Mannucci (apprendista)</li>
+        <li>Corso di restauro su supporto tessile e ligneo (2024) – con attestato</li>
+        <li>Restauro e ritocco pittorico su cornice e pavimento in casa con vista su Ponte Vecchio (amatoriale)</li>
+        <li>Lavoro di ritocco pittorico in appartamento a Firenze (amatoriale)</li>
+      </ul>
+  </section>
+
+
     <section id="instagram">
     <h2 class="text-2xl font-semibold border-b-2 border-gray-200 pb-2 mb-6">Instagram</h2>
 
@@ -91,7 +105,7 @@
                 class="rounded-lg shadow-md" allowfullscreen>
         </iframe>
     </div> -->
-</section>
+    </section>
   </main>
 
 
