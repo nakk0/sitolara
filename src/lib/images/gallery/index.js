@@ -9,6 +9,8 @@ import img8 from './img8.jpeg';
 import img9 from './img9.jpeg';
 import img10 from './img10.jpeg';
 import img11 from './img11.jpeg';
+import img12 from './img12.png';
+import img13 from './img13.png';
 
 export default [
   { name: 'img1', path: img1 },
@@ -22,4 +24,6 @@ export default [
   { name: 'img9', path: img9 },
   { name: 'img10', path: img10 },
   { name: 'img11', path: img11 },
+  { name: 'img12', path: img12 },
+  { name: 'img13', path: img13 },
 ];
